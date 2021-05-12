@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, UI design, hacking and many more.
 - 🌱 I’m currently learning IT in college.
 - 💞️ I’m looking to collaborate on building interesting stuff.
-- 📫 How to reach me ...
+- 📫 How to reach me ... get to know me.
 
 <!---
 Shenixreal/Shenixreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

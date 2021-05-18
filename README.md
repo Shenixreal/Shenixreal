@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shenixreal
+- 👋 Hi, I’m @Shenixreal (You can call me Shen)
 - 👀 I’m interested in coding, UI design, and many more.
 - 🌱 I’m currently learning IT in college.
 - 💞️ I’m looking to collaborate on building websites.

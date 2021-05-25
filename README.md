@@ -1,4 +1,4 @@
-![codingguy2](https://user-images.githubusercontent.com/73876759/119555537-98802100-bdbb-11eb-9735-a1658dbc3e6b.jpg)
+
 - 👋 Hi, I’m @Shenixreal (You can call me Shen).
 - 👀 I’m interested in coding, UI design, and many more.
 - 🌱 I’m currently learning IT in college.

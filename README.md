@@ -1,3 +1,4 @@
+![coding-freak](https://user-images.githubusercontent.com/73876759/119557067-5657df00-bdbd-11eb-8655-90b5bf6af2ef.gif)
 
 - 👋 Hi, I’m @Shenixreal (You can call me Shen).
 - 👀 I’m interested in coding, UI design, and many more.

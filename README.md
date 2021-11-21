@@ -1,10 +1,9 @@
-[![Header](https://raw.githubusercontent.com/Shenixreal/Shenixreal/master/readme_header.png "Header")]
-# Hello, folks! <img src="https://raw.githubusercontent.com/Shenixreal/Shenixreal/master/wave.gif" width="30px">
+# Hello! 👋
 
 
 ![tumblr_pn9xboCpWR1ubdjdeo1_500](https://user-images.githubusercontent.com/73876759/142022281-a7331fb3-ec46-4abe-a7c0-0c8ab4cd0158.gif)
 
-Hi 👋, you can call me Shen. I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and UI designing.
+You can call me Shen. I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and UI designing.
 
 
 

@@ -1,9 +1,10 @@
-# Hello folks!!! <img src="https://user-images.githubusercontent.com/73876759/142772251-5fa75384-9eb9-4745-92e8-7f91fd7fa58e.gif" width="30px">
+## Hello folks!!! <img src="https://user-images.githubusercontent.com/73876759/142772251-5fa75384-9eb9-4745-92e8-7f91fd7fa58e.gif" width="30px">
 
 ![tumblr_pn9xboCpWR1ubdjdeo1_500](https://user-images.githubusercontent.com/73876759/142022281-a7331fb3-ec46-4abe-a7c0-0c8ab4cd0158.gif)
 
 You can call me Shen. I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and UI designing.
 
+## Languages and tools I use and study
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

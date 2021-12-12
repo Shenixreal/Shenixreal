@@ -10,12 +10,13 @@ You can call me Shen. I’m an undergraduate student majoring in information tec
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenixreal&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
+<!--
 #💻; Tools I use
 ![html](https://user-images.githubusercontent.com/73876759/145710486-cbfef6bc-acc3-475a-bc55-26ce95bf704e.png)
 ![css-3](https://user-images.githubusercontent.com/73876759/145710498-674b1938-dcb2-4584-bb6e-038c085ab5ae.png)
 ![python](https://user-images.githubusercontent.com/73876759/145710519-84315f83-a3b6-4c4a-abb3-28256624cc3e.png)
 ![sql-server](https://user-images.githubusercontent.com/73876759/145710546-ba1457f9-0fa8-4396-a111-96a3198897f5.png)
-
+-->
 
 
 

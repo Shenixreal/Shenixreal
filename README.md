@@ -21,9 +21,7 @@ You can call me Shen. I’m an undergraduate student majoring in information tec
 </a>
 
 <br><br>
-
-![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/73876759/145714368-5e5016cc-b954-429a-90c3-edb12eea58e0.gif)
-
+![ezgif-2-405a3214f439](https://user-images.githubusercontent.com/73876759/145714791-caef2b87-a2f6-4874-9160-e3c0df4558d0.gif)
 
 
 <!-- a href="https://github.com/Shenixreal/Shenixreal">

@@ -13,7 +13,6 @@ You can call me Shen. I’m an undergraduate student majoring in information tec
 
 ## 🌱 Languages I'm currently learning
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## &#x1f4c8; Stats 
 
@@ -27,9 +26,8 @@ You can call me Shen. I’m an undergraduate student majoring in information tec
 <!-- a href="https://github.com/Shenixreal/Shenixreal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shenixreal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shen's GitHub Stats" />
 </a>
-
-<!--![gif1](https://user-images.githubusercontent.com/73876759/119557788-42f94380-bdbe-11eb-960c-05250abdb5b2.gif)-->
 <!---
 Shenixreal/Shenixreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->

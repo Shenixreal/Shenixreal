@@ -4,19 +4,19 @@
 
 You can call me Shen. I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and UI designing.
 
+#💻; Languages and tools I use and study
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## &#x1f4c8; Stats 
 
 <a href="https://github.com/Shenixreal/Shenixreal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenixreal&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<!--
-#💻; Tools I use
-![html](https://user-images.githubusercontent.com/73876759/145710486-cbfef6bc-acc3-475a-bc55-26ce95bf704e.png)
-![css-3](https://user-images.githubusercontent.com/73876759/145710498-674b1938-dcb2-4584-bb6e-038c085ab5ae.png)
-![python](https://user-images.githubusercontent.com/73876759/145710519-84315f83-a3b6-4c4a-abb3-28256624cc3e.png)
-![sql-server](https://user-images.githubusercontent.com/73876759/145710546-ba1457f9-0fa8-4396-a111-96a3198897f5.png)
--->
 
 
 

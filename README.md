@@ -19,13 +19,9 @@ My name is Shenal, but you can call me Shen if you want. I’m an undergraduate 
 
 ## &#x1f4c8; Stats 
 
-<a href="https://github.com/Shenixreal/Shenixreal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenixreal&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenixreal&theme=tokyonight)
 
-<!--a href="https://github.com/Shenixreal/Shenixreal">
+<a href="https://github.com/Shenixreal/Shenixreal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shenixreal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shen's GitHub Stats" />
 </a>
 
@@ -33,6 +29,9 @@ My name is Shenal, but you can call me Shen if you want. I’m an undergraduate 
 ![ezgif-2-405a3214f439](https://user-images.githubusercontent.com/73876759/145714791-caef2b87-a2f6-4874-9160-e3c0df4558d0.gif)
 
 
+<!--a href="https://github.com/Shenixreal/Shenixreal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenixreal&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a-->
 
 <!---
 Shenixreal/Shenixreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,8 @@
 ## Hello there!!! <img src="https://user-images.githubusercontent.com/73876759/142772251-5fa75384-9eb9-4745-92e8-7f91fd7fa58e.gif" width="30px"> I'm Shenal.
 My name is Shenal, but you can call me Shen if you want. I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and UI designing.
 
+![Visitor Count](https://profile-counter.glitch.me/{Shenixreal}/count.svg)
+
 ## 💻 Languages and tools I use and study
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

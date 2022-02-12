@@ -17,7 +17,7 @@ My name is Shenal, but you can call me Shen if you want. I’m an undergraduate 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## &#x1f4c8; Stats <img align="right" src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="55">
+## &#x1f4c8; Stats <img align="right" src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="85">
 
 <a href="https://github.com/Shenixreal/Shenixreal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenixreal&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />

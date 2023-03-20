@@ -1,4 +1,4 @@
-## Hello there!!!<!--img src="https://user-images.githubusercontent.com/73876759/142772251-5fa75384-9eb9-4745-92e8-7f91fd7fa58e.gif" width="20px"--> I'm Shenal.
+## Hello there!!!<img src="https://user-images.githubusercontent.com/73876759/226433551-14f9455c-0a09-48c1-ba97-b8204c7ce764.gif" width="20px"> I'm Shenal.
 My name is Shenal, but you can call me Shen if you want. I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and UI designing.
 
 ## 💻 Languages and tools I use
@@ -45,3 +45,5 @@ Shenixreal/Shenixreal is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <!-- ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
+
+![hi](https://user-images.githubusercontent.com/73876759/226433551-14f9455c-0a09-48c1-ba97-b8204c7ce764.gif)

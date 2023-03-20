@@ -1,4 +1,4 @@
-## Hello there!!!<img src="https://user-images.githubusercontent.com/73876759/226433551-14f9455c-0a09-48c1-ba97-b8204c7ce764.gif" width="20px"> I'm Shenal.
+## Hello there!!! I'm Shenal <img src="https://user-images.githubusercontent.com/73876759/226433551-14f9455c-0a09-48c1-ba97-b8204c7ce764.gif" width="25px">
 My name is Shenal, but you can call me Shen if you want. I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and UI designing.
 
 ## 💻 Languages and tools I use

@@ -16,9 +16,9 @@ My name is Shenal, but you can call me Shen if you want. I’m an undergraduate 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
 
-## <img src="https://user-images.githubusercontent.com/73876759/145789114-2975ef3b-5f60-416d-a30e-5da080ea623b.gif" width="35"> Languages and tools I'm currently learning <img align="right" src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="150">
+## <img src="https://user-images.githubusercontent.com/73876759/145789114-2975ef3b-5f60-416d-a30e-5da080ea623b.gif" width="35"> What I'm currently learning <img align="right" src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="150">
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
 
 ## 🖥 OS I use
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

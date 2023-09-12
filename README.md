@@ -23,10 +23,10 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/><br/>
 
-Connect with me:
-<img align="left" alt="Twitter" width="40" src="https://www.svgrepo.com/show/126780/twitter.svg" href="https://twitter.com/shencode" />
-<img align="left" alt="LinkedIn" width="40" src="https://www.svgrepo.com/show/299484/linkedin.svg" href="inkedin.com/in/shenal-samarawickrama-084330194/" />
-<img align="left" alt="Behance" width="40" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" href="https://www.behance.net/shenals" />
+<b> Connect with me: </b> <br/><br/>
+<img alt="Twitter" width="40" src="https://www.svgrepo.com/show/126780/twitter.svg" href="https://twitter.com/shencode" />
+<img alt="LinkedIn" width="40" src="https://www.svgrepo.com/show/299484/linkedin.svg" href="inkedin.com/in/shenal-samarawickrama-084330194/" />
+<img alt="Behance" width="40" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" href="https://www.behance.net/shenals" />
 
 <!--
 ## &#x1f4c8; Stats

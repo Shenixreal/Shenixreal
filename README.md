@@ -1,7 +1,7 @@
 ## Hello there!!! I'm Shenal <img src="https://user-images.githubusercontent.com/73876759/226433551-14f9455c-0a09-48c1-ba97-b8204c7ce764.gif" width="25px">
 I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and UI designing.
 
-## 💻 Languages and tools I use
+<b> 💻 Languages and Tools: </b>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -17,9 +17,13 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
 
-## 🖥 OS I use
+<b> Operating Systems: </b>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<img align="left" alt="Twitter" width="40" src="https://www.svgrepo.com/show/126780/twitter.svg" href="https://twitter.com/shencode" />
+<img align="left" alt="LinkedIn" width="40" src="https://www.svgrepo.com/show/299484/linkedin.svg" href="inkedin.com/in/shenal-samarawickrama-084330194/" />
+<img align="left" alt="Behance" width="40" src="https://www.svgrepo.com/show/126780/twitter.svg" href="https://www.behance.net/shenals" />
 
 <!--
 ## &#x1f4c8; Stats

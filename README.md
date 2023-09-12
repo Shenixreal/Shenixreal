@@ -1,7 +1,7 @@
 ## Hello there!!! I'm Shenal <img src="https://user-images.githubusercontent.com/73876759/226433551-14f9455c-0a09-48c1-ba97-b8204c7ce764.gif" width="25px">
 I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and user experience.
 
-<img align="right" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/ac1054be-9eff-4e61-946e-c4a496d3db61" width="100">
+<img align="right" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/ac1054be-9eff-4e61-946e-c4a496d3db61" width="150">
 
 ### 💻 Languages and Tools: <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

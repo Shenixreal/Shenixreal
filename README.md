@@ -26,7 +26,7 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 ### Connect with me: <br/><br/>
 <img align="left" alt="Twitter" width="30" src="https://www.svgrepo.com/show/126780/twitter.svg" href="https://twitter.com/shencode" />
 <img align="left" alt="LinkedIn" width="30" src="https://www.svgrepo.com/show/299484/linkedin.svg" href="inkedin.com/in/shenal-samarawickrama-084330194/" />
-<img align="left" alt="Behance" width="30" src="https://www.svgrepo.com/svg/452165/behance" href="https://www.behance.net/shenals" />
+<img align="left" alt="Behance" width="30" src="https://www.svgrepo.com/svg/452165/behance.svg" href="https://www.behance.net/shenals" />
 
 <br><br>
 ![ezgif-2-405a3214f439](https://user-images.githubusercontent.com/73876759/145714791-caef2b87-a2f6-4874-9160-e3c0df4558d0.gif)

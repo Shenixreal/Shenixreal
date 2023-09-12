@@ -16,13 +16,14 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
-<br/>
+<br/><br/>
 
-<b> Operating Systems: </b> <br/>
+<b> Operating Systems: </b> <br/><br/>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br/>
+<br/><br/>
 
+Connect with me:
 <img align="left" alt="Twitter" width="40" src="https://www.svgrepo.com/show/126780/twitter.svg" href="https://twitter.com/shencode" />
 <img align="left" alt="LinkedIn" width="40" src="https://www.svgrepo.com/show/299484/linkedin.svg" href="inkedin.com/in/shenal-samarawickrama-084330194/" />
 <img align="left" alt="Behance" width="40" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" href="https://www.behance.net/shenals" />

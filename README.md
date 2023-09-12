@@ -1,7 +1,7 @@
 ## Hello there!!! I'm Shenal <img src="https://user-images.githubusercontent.com/73876759/226433551-14f9455c-0a09-48c1-ba97-b8204c7ce764.gif" width="25px">
 I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and user experience.
 
-### 💻 Languages and Tools: </b> <br/><br/>
+### 💻 Languages and Tools: <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -18,17 +18,17 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
 <br/><br/>
 
-### Operating Systems: <br/><br/>
+### Operating Systems: <br/>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/><br/>
 
-### Connect with me: <br/><br/>
+### Connect with me: <br/>
 <img align="left" alt="Twitter" width="40" src="https://www.svgrepo.com/show/475689/twitter-color.svg" href="https://twitter.com/shencode" />
 <img align="left" alt="LinkedIn" width="40" src="https://www.svgrepo.com/show/448234/linkedin.svg" href="inkedin.com/in/shenal-samarawickrama-084330194/" />
-<img align="left" alt="Medium" width="40" src="https://www.svgrepo.com/show/521749/medium.svg" href="https://medium.com/@shenals" />
+<img align="left" alt="Medium" width="40" src="https://www.svgrepo.com/show/364653/medium-logo-fill.svg" href="https://medium.com/@shenals" />
 
-<br><br>
+<br/><br/>
 ![ezgif-2-405a3214f439](https://user-images.githubusercontent.com/73876759/145714791-caef2b87-a2f6-4874-9160-e3c0df4558d0.gif)
 
 

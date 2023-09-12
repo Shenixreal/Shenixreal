@@ -18,6 +18,8 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
 <br/>
 
+<img align="right" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/ac1054be-9eff-4e61-946e-c4a496d3db61" width="100">
+
 ### 💻 Operating Systems: <br/>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

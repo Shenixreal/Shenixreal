@@ -25,6 +25,12 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/><br/>
 
+### Find me on: <br/>
+<img alt="LinkedIn" width="40" href="https://www.linkedin.com/in/shenal-samarawickrama-084330194/" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" />&nbsp;
+<img alt="Behance" width="40" href="https://behance.net/shenal" src="https://www.svgrepo.com/show/452165/behance.svg" />&nbsp;
+<img alt="Medium" width="40" href="https://medium.com/shenals" src="https://www.svgrepo.com/show/445881/medium.svg" />&nbsp;
+<img alt="Twitter" width="40" href="https://twitter.com/shencode" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />&nbsp;
+
 ![ezgif-2-405a3214f439](https://user-images.githubusercontent.com/73876759/145714791-caef2b87-a2f6-4874-9160-e3c0df4558d0.gif)
 
 

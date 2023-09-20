@@ -26,7 +26,8 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 <br/>
 
 ### Find me on: <br/>
-<a href="https://www.linkedin.com/in/shenal-samarawickrama-084330194/"><img alt="LinkedIn" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" width="40"></a>&nbsp;
+<a href="https://www.linkedin.com/in/shenal-samarawickrama-084330194/">
+<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a>&nbsp;
 <a href="https://www.behance.com/shenal"><img alt="Behance" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/behance.svg" width="40"></a>&nbsp;
 <a href="https://www.medium.com/shenals"><img alt="Medium" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" width="40"></a>&nbsp;
 <a href="https://www.twitter.com/shencode"><img alt="Twitter" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" width="40"></a>&nbsp;

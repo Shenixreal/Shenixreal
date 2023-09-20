@@ -26,19 +26,11 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 <br/>
 
 ### Find me on: <br/>
-<img alt="LinkedIn" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/32765fd7-35a6-4d8f-be09-910fb440aa0a" width="40">
-<a href="https://www.linkedin.com/in/shenal-samarawickrama-084330194/"></a>
-</img>&nbsp;
-<img alt="Behance" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/d8eb089f-45d6-46a8-b179-e03681e1ea99" width="40">
-<a href="https://www.behance.com/shenal"></a>
-</img>&nbsp;
-<img alt="Medium" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/84d6707c-0f4d-4056-b70d-369f1ebab4b9" width="35">
-<a href="https://www.medium.com/shenals"></a>
-</img>&nbsp;
-<img alt="Twitter" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/70d56299-9264-4190-b5b5-6a1753290d9c" width="40">
-<a href="https://www.twitter.com/shencode"></a>
-</img>&nbsp;
-<br/>
+<a href="https://www.linkedin.com/in/shenal-samarawickrama-084330194/"><img alt="LinkedIn" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/32765fd7-35a6-4d8f-be09-910fb440aa0a" width="40"></img></a>&nbsp;
+<a href="https://www.behance.com/shenal"><img alt="Behance" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/d8eb089f-45d6-46a8-b179-e03681e1ea99" width="40"></img></a>&nbsp;
+<a href="https://www.medium.com/shenals"><img alt="Medium" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/84d6707c-0f4d-4056-b70d-369f1ebab4b9" width="35"></img></a>&nbsp;
+<a href="https://www.twitter.com/shencode"><img alt="Twitter" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/70d56299-9264-4190-b5b5-6a1753290d9c" width="40"></img></a>&nbsp;
+<br/><br/>
 
 ![ezgif-2-405a3214f439](https://user-images.githubusercontent.com/73876759/145714791-caef2b87-a2f6-4874-9160-e3c0df4558d0.gif)
 

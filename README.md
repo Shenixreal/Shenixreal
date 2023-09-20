@@ -27,10 +27,10 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 
 ### Find me on: <br/>
 <a href="https://www.linkedin.com/in/shenal-samarawickrama-084330194/">
-<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"></a>&nbsp;
-<a href="https://www.behance.com/shenal"><img alt="Behance" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/behance.svg" width="38"></a>&nbsp;
-<a href="https://www.medium.com/shenals"><img alt="Medium" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" width="38"></a>&nbsp;
-<a href="https://www.twitter.com/shencode"><img alt="Twitter" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" width="38"></a>&nbsp;
+<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32"></a>&nbsp;
+<a href="https://www.behance.com/shenal"><img alt="Behance" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/behance.svg" width="35"></a>&nbsp;
+<a href="https://www.medium.com/shenals"><img alt="Medium" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" width="35"></a>&nbsp;
+<a href="https://www.twitter.com/shencode"><img alt="Twitter" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" width="35"></a>&nbsp;
 <br/><br/>
 
 ![ezgif-2-405a3214f439](https://user-images.githubusercontent.com/73876759/145714791-caef2b87-a2f6-4874-9160-e3c0df4558d0.gif)

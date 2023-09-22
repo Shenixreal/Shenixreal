@@ -25,8 +25,6 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
 
-<div align="right"> [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenixreal&theme=tokyonight) </div>
-
 ### 💻 Find me on: <br/>
 <a href="https://www.linkedin.com/in/shenal-samarawickrama-084330194/">
 <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"></a>&nbsp;

@@ -25,8 +25,6 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
 
-<br/><br/>
-
 ![ezgif-2-405a3214f439](https://user-images.githubusercontent.com/73876759/145714791-caef2b87-a2f6-4874-9160-e3c0df4558d0.gif)
 
 

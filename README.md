@@ -1,6 +1,7 @@
 ## Hello there!!! I'm Shenal <img src="https://user-images.githubusercontent.com/73876759/226433551-14f9455c-0a09-48c1-ba97-b8204c7ce764.gif" width="25px">
 I’m an undergraduate student majoring in information technology, and I’m mostly interested in web development, programming, and user experience.
 
+<!--
 <img align="right" src="https://github.com/Shenixreal/Shenixreal/assets/73876759/ac1054be-9eff-4e61-946e-c4a496d3db61" width="150">
 
 ### 💻 Languages and Tools: <br/>
@@ -24,6 +25,8 @@ I’m an undergraduate student majoring in information technology, and I’m mos
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
+
+-->
 
 ![ezgif-2-405a3214f439](https://user-images.githubusercontent.com/73876759/145714791-caef2b87-a2f6-4874-9160-e3c0df4558d0.gif)
 
